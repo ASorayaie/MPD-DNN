@@ -1,2 +1,2 @@
 # MPD-DNN
-Monkeypox Detection With DNNs 
+The implementation code will be made available after the publication of the paper.
